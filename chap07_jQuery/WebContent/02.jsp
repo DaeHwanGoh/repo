@@ -5,7 +5,7 @@
 	src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <h2>jQuery DOM Traversing</h2>
 -태그$("태그명")나, 클래스이름$(".클래스명"), 아이디명$("#아이디명")로 접근 가능
-<br/>
+<br/> 
 <c:forTokens var="tk" items="가위,바위,보" delims=",">
 	<button>${tk }</button>
 </c:forTokens>
