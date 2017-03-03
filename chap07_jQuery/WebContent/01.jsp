@@ -3,7 +3,7 @@
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
-<h2>소스에 변경을 하게 되면</h2>	
+<h2>소스에 변경을 하게 되면, 또 변경하게 되면</h2>	
 <h1>jQuery</h1>
 자바스크립트 프로그래밍을 쉽게 구현할수 있게 만들어둔 자바 스크립트 라이브러리
 <br />
